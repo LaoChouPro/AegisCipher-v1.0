@@ -1,5 +1,5 @@
 # AegisCipher - Password Anti-Brute Force System (Prototype Version)  
-# AegisCipher - 密码反爆破系统（原型版本）
+# 宙斯盾 - 密码反爆破系统（原型版本）
 
 ## Overview 概述
 
